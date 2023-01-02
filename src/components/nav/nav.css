@@ -1,0 +1,16 @@
+.lista-nav {
+  display: flex;
+  gap: 10rem;
+  margin: 3rem 0 0 0;
+  list-style: none;
+}
+
+li {
+  cursor: pointer;
+  transition: all 450ms ease-in-out;
+}
+
+li:hover {
+  color: darkcyan;
+  transition: all 450ms ease-in-out;
+}

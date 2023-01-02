@@ -1,0 +1,51 @@
+footer {
+  background-color: #0a0a0a;
+  margin: 12rem 0 0 0;
+  padding: 3rem;
+}
+
+.container-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo-principal-footer,
+.descricao-footer {
+  color: #fff;
+}
+
+.descricao-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-sociais {
+  margin: 0.9rem 0 0 0;
+}
+
+.icons-sociais {
+  display: flex;
+  align-items: center;
+}
+
+.icon-github, 
+.icon-linkedin {
+  width: 4.3vh;
+}
+
+.icon-instagram {
+  width: 8.7vh;
+}
+
+/* Segundo conteudo */
+
+span {
+  color: #fff;
+}
+
+.link-repository {
+  text-decoration: none;
+  color: #dc1e1e;
+}
